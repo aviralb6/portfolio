@@ -1,0 +1,119 @@
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-image {
+    position: relative;
+    left: 350px;
+    bottom: 80px;
+}
+
+img {
+    border: transparent;
+    border-radius: 32%;
+    border-style: groove;
+}
+
+#one {
+    position: relative;
+    left: 450px;
+    top: 10px;
+    bottom: 30px;
+}
+
+#two {
+    position: relative;
+    left: 450px;
+    top: 10px;
+    bottom: 30px;
+}
+
+.intro {
+    font-family:  "Kode Mono", monospace;
+    font-weight: 700;
+    text-align: center;
+    color: #385170;
+    padding-bottom: 50px;
+}
+
+.bottom-image {
+    position: relative;
+    left: 150px;
+    bottom: 30px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.content {
+    font-family:  "Kode Mono", monospace;
+    font-weight: 500;
+    text-align: center;
+    background-color: #ececec;
+    padding-bottom: 50px;
+    display: grid;
+}
+
+.about {
+    text-decoration: underline;
+    align-content: center;
+}
+
+.bottom-container {
+    font-family:  "Kode Mono", monospace;
+    font-weight: 500;
+    text-align: center;
+    background-color: #385170;
+    padding-bottom: 50px;
+    /*display: grid;*/ 
+}
+
+.projects {
+    text-align: left;
+    padding: 30px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.about-me {
+    text-align: right;
+    padding: 30px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.project1 {
+    /*display: flex;*/
+    padding-top: 30px;
+    color: #e4f9f5;
+}
+
+.hobbies {
+   padding-top: 30px;
+   color: #e4f9f5; 
+}
+
+.bottom {
+    display: grid;
+    font-family:  "Kode Mono", monospace;
+    font-weight: 500;
+    text-align: center;
+    background-color: #e4f9f5;
+    padding-bottom: 50px;
+
+}
+
+.contact {
+    font-family:  "Kode Mono", monospace;
+    font-weight: 500;
+    text-align: center;
+    background-color: #e4f9f5;
+    padding-bottom: 50px;
+}
+
+
